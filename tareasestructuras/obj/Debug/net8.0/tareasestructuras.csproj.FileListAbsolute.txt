@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\bin\Debug\net8.0\tareasestructuras.exe
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\bin\Debug\net8.0\tareasestructuras.deps.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\bin\Debug\net8.0\tareasestructuras.runtimeconfig.json
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\bin\Debug\net8.0\tareasestructuras.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\bin\Debug\net8.0\tareasestructuras.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\refint\tareasestructuras.dll
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.pdb
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\ref\tareasestructuras.dll
