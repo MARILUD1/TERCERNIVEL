@@ -12,3 +12,4 @@ C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercerseme
 C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.pdb
 C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.genruntimeconfig.cache
 C:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\ref\tareasestructuras.dll
+c:\Users\Usuario\OneDrive - Universidad Estatal Amazónica\Escritorio\tercersemestre\tareasestructuras\obj\Debug\net8.0\tareasestructuras.sourcelink.json
