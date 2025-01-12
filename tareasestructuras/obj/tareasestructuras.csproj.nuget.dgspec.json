@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj": {}
+    "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj": {
+    "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj",
         "projectName": "tareasestructuras",
-        "projectPath": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj",
+        "projectPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\tareasestructuras.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\OneDrive - Universidad Estatal Amazónica\\Escritorio\\tercersemestre\\tareasestructuras\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Usuario\\AppData\\Roaming\\NuGet\\NuGet.Config"

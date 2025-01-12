@@ -2,9 +2,8 @@ using System;
 using System.Collections.Generic;
 
 // Clase para representar un socio
-namespace RegistroAporte{
-    
-    
+namespace RegistroAporte
+{
     public class Socio // Plublic: modificador de acseso público
     {
         public int IdSocio { get; set; }
@@ -42,7 +41,7 @@ namespace RegistroAporte{
     // Clase para administrar la asociación
     public class Asociacion//Agrega socios y gestiona aportes
     {
-        
+ 
         private List<Socio> socios;//Private Modificador de acseso privado
 
         public Asociacion()// Inicializacion de lista vacia
@@ -74,7 +73,7 @@ namespace RegistroAporte{
             foreach (var socio in socios)
             {
                Console.WriteLine();
-            {Console.WriteLine(socio.ToString());
+            Console.WriteLine(socio.ToString());
              
             }
         }
@@ -83,8 +82,8 @@ namespace RegistroAporte{
        class Program
        {
         
-        static void Main(string[] args) // se ejecutan las intrucciones 
-        {
+          static void Main(string[] args) // se ejecutan las intrucciones 
+          {
             // Crear instancia de la asociación
             Asociacion asociacion = new Asociacion();
 
@@ -121,3 +120,8 @@ namespace RegistroAporte{
             Console.WriteLine();
             Console.WriteLine("\nPresione sobre una tecla para salir...");
             Console.ReadKey();
+        }
+    }
+
+}
+    
