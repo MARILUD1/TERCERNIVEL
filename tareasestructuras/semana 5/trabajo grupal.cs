@@ -2,7 +2,7 @@
 using System;
 using System.Collections.Generic;
 
-public class Agenda
+public class Agena
 
   //Crear una lista de contactos (nombre, numero de telefono)
 {
@@ -19,7 +19,7 @@ public class Agenda
       //IMPRIMIR AGENDA
      
         Console.WriteLine("registrados");
-      foreach (var registrados in contactos)
+        foreach (var registrados in contactos)
         
       {
           Console.WriteLine($"{registrados.Item1}:{registrados.Item2}");
