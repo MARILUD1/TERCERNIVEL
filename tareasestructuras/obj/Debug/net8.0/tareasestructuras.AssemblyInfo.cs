@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tareasestructuras")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f3ed0196819bf0beb67ca183d5e91ed172ebd0b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a37ab4788632c0b6dc42a81e3d629658676a9b7")]
 [assembly: System.Reflection.AssemblyProductAttribute("tareasestructuras")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tareasestructuras")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
