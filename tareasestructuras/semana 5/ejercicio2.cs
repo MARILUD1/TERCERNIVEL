@@ -1,5 +1,10 @@
 //Escribir un programa que almacene las asignaturas de un curso (por ejemplo Matemáticas, Física, Química, Historia y Lengua) en una lista y la muestre 
 //por pantalla el mensaje Yo estudio <asignatura>, donde <asignatura> es cada una de las asignaturas de la lista.
+
+
+using System;
+using System.Collections.Generic;
+
 public class Curso
 {
     public static void Run()
@@ -15,7 +20,7 @@ public class Curso
 
         foreach (var asignatura in materias)
         {
-            Console.WriteLine($"YO ESTUDIO {asignatura}");
+            Console.WriteLine($"Yo estudio {asignatura}");
         }
     }
-}                                                                    
+}            
