@@ -15,7 +15,7 @@ public class Curso
 
         foreach (var asignatura in materias)
         {
-            Console.WriteLine($"Yo estudio {asignatura}");
+            Console.WriteLine($"YO ESTUDIO {asignatura}");
         }
     }
 }                                                                    
